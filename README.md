@@ -30,7 +30,7 @@ There is 1 notebook with the code related to answer the above questions. The cod
 
 Results
 
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the post available https://nces.ed.gov/ccd/elsi/tableGenerator.aspx?savedTableID=649127
 
 Licensing, Authors, Acknowledgements
 
